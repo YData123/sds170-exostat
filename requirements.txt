@@ -7,3 +7,4 @@ emcee==2.2.1
 corner==2.0.1
 datascience==0.10.6
 display==1.0.0
+pandas
