@@ -1,0 +1,128 @@
+pl_hostname,pl_letter,pl_discmethod,pl_pnum,st_mass,st_rad,pl_def_reflink
+Kepler-138,b,Transit,3,0.52,0.44,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015Natur.522..321J target=ref>Jontof-Hutter et al. 2015</a>
+Kepler-131,c,Transit,2,1.02,1.03,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-406,c,Transit,2,1.07,1.07,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-78,b,Transit,1,0.76,0.74,<a href=http://adsabs.harvard.edu/abs/2013Natur.503..377P target=ref> Pepe et al. 2013 </a>
+Kepler-102,d,Transit,5,0.81,0.76,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-138,c,Transit,3,0.52,0.44,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015Natur.522..321J target=ref>Jontof-Hutter et al. 2015</a>
+Kepler-138,d,Transit,3,0.52,0.44,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015Natur.522..321J target=ref>Jontof-Hutter et al. 2015</a>
+Kepler-105,c,Transit,2,0.96,0.89,<a href=http://adsabs.harvard.edu/abs/2016ApJ...820...39J target=ref>Jontof-Hutter et al. 2016</a>
+Kepler-100,b,Transit,3,1.08,1.49,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-406,b,Transit,2,1.07,1.07,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-93,b,Transit,2,0.91,0.92,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015ApJ...800..135D target=ref>Dressing et al. 2015</a>
+Kepler-97,b,Transit,2,0.94,0.98,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-99,b,Transit,1,0.79,0.73,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-10,b,Transit,2,0.91,1.06,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015ApJ...804..150E target=ref>Esteves et al. 2015</a>
+Kepler-36,b,Transit,2,1.07,1.63,<a href=http://adsabs.harvard.edu/abs/2012Sci...337..556C target=ref> Carter et al. 2012 </a>
+Kepler-80,d,Transit,5,0.73,0.68,<a href=http://adsabs.harvard.edu/abs/2016arXiv160707540M target=ref>MacDonald et al. 2016</a>
+Kepler-80,e,Transit,5,0.73,0.68,<a href=http://adsabs.harvard.edu/abs/2016arXiv160707540M target=ref>MacDonald et al. 2016</a>
+Kepler-21,b,Transit,1,1.41,1.9,<a href=http://adsabs.harvard.edu/abs/2016arXiv160907617L target=ref>Lopez-Morales et al. 2016</a>
+Kepler-60,b,Transit,3,1.04,1.26,<a href=http://adsabs.harvard.edu/abs/2016ApJ...820...39J target=ref>Jontof-Hutter et al. 2016</a>
+Kepler-11,b,Transit,6,0.96,1.06,<a href=http://adsabs.harvard.edu/abs/2013ApJ...770..131L target=ref> Lissauer et al. 2013 </a>
+Kepler-113,b,Transit,2,0.75,0.69,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-20,b,Transit,6,0.95,0.96,<a href=http://adsabs.harvard.edu/abs/2016AJ....152..160B target=ref>Buchhave et al. 2017</a>
+Kepler-48,b,Transit,4,0.88,0.89,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-60,c,Transit,3,1.04,1.26,<a href=http://adsabs.harvard.edu/abs/2016ApJ...820...39J target=ref>Jontof-Hutter et al. 2016</a>
+Kepler-60,d,Transit,3,1.04,1.26,<a href=http://adsabs.harvard.edu/abs/2016ApJ...820...39J target=ref>Jontof-Hutter et al. 2016</a>
+Kepler-98,b,Transit,1,0.99,1.11,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-18,b,Transit,3,0.97,1.11,<a href=http://adsabs.harvard.edu/abs/2011ApJS..197....7C target=ref> Cochran et al. 2011 </a>
+Kepler-48,d,Transit,4,0.88,0.89,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-289,b,Transit,3,1.08,1,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014ApJ...795..167S target=ref>Schmitt et al. 2014</a>
+Kepler-307,c,Transit,2,0.91,0.81,<a href=http://adsabs.harvard.edu/abs/2016ApJ...820...39J target=ref>Jontof-Hutter et al. 2016</a>
+Kepler-102,e,Transit,5,0.81,0.76,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-68,b,Transit,3,1.08,1.24,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-10,c,Transit,2,0.91,1.06,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014ApJ...789..154D target=ref> Dumusque et al. 2014</a>
+Kepler-454,b,Transit,2,1.03,1.07,<a href=http://adsabs.harvard.edu/abs/2015arXiv151109097G target=ref>Gettel et al. 2015</a>
+Kepler-131,b,Transit,2,1.02,1.03,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-307,b,Transit,2,0.91,0.81,<a href=http://adsabs.harvard.edu/abs/2016ApJ...820...39J target=ref>Jontof-Hutter et al. 2016</a>
+Kepler-11,f,Transit,6,0.96,1.06,<a href=http://adsabs.harvard.edu/abs/2013ApJ...770..131L target=ref> Lissauer et al. 2013 </a>
+Kepler-106,c,Transit,4,1,1.04,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-106,e,Transit,4,1,1.04,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-80,b,Transit,5,0.73,0.68,<a href=http://adsabs.harvard.edu/abs/2016arXiv160707540M target=ref>MacDonald et al. 2016</a>
+Kepler-96,b,Transit,1,1,1.02,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-289,d,Transit,3,1.08,1,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014ApJ...795..167S target=ref>Schmitt et al. 2014</a>
+Kepler-25,b,Transit,3,1.19,1.31,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-48,c,Transit,4,0.88,0.89,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-26,c,Transit,4,0.54,0.51,<a href=http://adsabs.harvard.edu/abs/2016ApJ...820...39J target=ref>Jontof-Hutter et al. 2016</a>
+Kepler-80,c,Transit,5,0.73,0.68,<a href=http://adsabs.harvard.edu/abs/2016arXiv160707540M target=ref>MacDonald et al. 2016</a>
+Kepler-20,d,Transit,6,0.95,0.96,<a href=http://adsabs.harvard.edu/abs/2016AJ....152..160B target=ref>Buchhave et al. 2017</a>
+Kepler-26,b,Transit,4,0.54,0.51,<a href=http://adsabs.harvard.edu/abs/2016ApJ...820...39J target=ref>Jontof-Hutter et al. 2016</a>
+Kepler-11,c,Transit,6,0.96,1.06,<a href=http://adsabs.harvard.edu/abs/2013ApJ...770..131L target=ref> Lissauer et al. 2013 </a>
+Kepler-223,b,Transit,4,1.12,1.72,<a href=http://adsabs.harvard.edu/abs/2016Natur.533..509M target=ref>Mills et al. 2016</a>
+Kepler-20,c,Transit,6,0.95,0.96,<a href=http://adsabs.harvard.edu/abs/2016AJ....152..160B target=ref>Buchhave et al. 2017</a>
+Kepler-11,d,Transit,6,0.96,1.06,<a href=http://adsabs.harvard.edu/abs/2013ApJ...770..131L target=ref> Lissauer et al. 2013 </a>
+Kepler-29,c,Transit,2,0.98,0.93,<a href=http://adsabs.harvard.edu/abs/2016ApJ...820...39J target=ref>Jontof-Hutter et al. 2016</a>
+Kepler-29,b,Transit,2,0.98,0.93,<a href=http://adsabs.harvard.edu/abs/2016ApJ...820...39J target=ref>Jontof-Hutter et al. 2016</a>
+Kepler-103,b,Transit,2,1.09,1.44,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-95,b,Transit,1,1.08,1.41,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-223,c,Transit,4,1.12,1.72,<a href=http://adsabs.harvard.edu/abs/2016Natur.533..509M target=ref>Mills et al. 2016</a>
+Kepler-79,b,Transit,4,1.17,1.3,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014ApJ...785...15J target=ref>Jontof-Hutter et al. 2014</a>
+Kepler-79,e,Transit,4,1.17,1.3,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014ApJ...785...15J target=ref>Jontof-Hutter et al. 2014</a>
+Kepler-94,b,Transit,2,0.81,0.76,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-36,c,Transit,2,1.07,1.63,<a href=http://adsabs.harvard.edu/abs/2012Sci...337..556C target=ref> Carter et al. 2012 </a>
+Kepler-79,c,Transit,4,1.17,1.3,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014ApJ...785...15J target=ref>Jontof-Hutter et al. 2014</a>
+Kepler-30,b,Transit,3,0.99,0.95,<a href=http://adsabs.harvard.edu/abs/2012Natur.487..449S target=ref> Sanchis-Ojeda et al. 2012 </a>
+Kepler-4,b,Transit,1,1.22,1.49,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2010ApJ...713L.126B target=ref> Borucki et al. 2010 </a>
+Kepler-11,e,Transit,6,0.96,1.06,<a href=http://adsabs.harvard.edu/abs/2013ApJ...770..131L target=ref> Lissauer et al. 2013 </a>
+Kepler-413,b,Transit,1,0.82,0.78,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014ApJ...784...14K target=ref>Kostov et al. 2014</a>
+Kepler-223,e,Transit,4,1.12,1.72,<a href=http://adsabs.harvard.edu/abs/2016Natur.533..509M target=ref>Mills et al. 2016</a>
+Kepler-103,c,Transit,2,1.09,1.44,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-25,c,Transit,3,1.19,1.31,<a href=http://adsabs.harvard.edu/abs/2014ApJS..210...20M target=ref> Marcy et al. 2014 </a>
+Kepler-223,d,Transit,4,1.12,1.72,<a href=http://adsabs.harvard.edu/abs/2016Natur.533..509M target=ref>Mills et al. 2016</a>
+Kepler-18,c,Transit,3,0.97,1.11,<a href=http://adsabs.harvard.edu/abs/2011ApJS..197....7C target=ref> Cochran et al. 2011 </a>
+Kepler-101,b,Transit,2,1.17,1.56,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014arXiv1409.4592B target=ref> Bonomo et al. 2014</a>
+Kepler-87,c,Transit,2,1.1,1.82,<a href=http://adsabs.harvard.edu/abs/2014A%26A...561A.103O target=ref> Ofir et al. 2014 </a>
+Kepler-56,b,Transit,3,1.32,4.23,<a href=http://adsabs.harvard.edu/abs/2013Sci...342..331H target=ref> Huber et al. 2013 </a>
+Kepler-18,d,Transit,3,0.97,1.11,<a href=http://adsabs.harvard.edu/abs/2011ApJS..197....7C target=ref> Cochran et al. 2011 </a>
+Kepler-51,b,Transit,3,1.04,0.94,<a href=http://adsabs.harvard.edu/abs/2014ApJ...783...53M target=ref> Masuda 2014 </a>
+Kepler-79,d,Transit,4,1.17,1.3,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014ApJ...785...15J target=ref>Jontof-Hutter et al. 2014</a>
+Kepler-117,b,Transit,2,1.13,1.61,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015A&A...573A.124B target=ref>Bruno et al. 2015</a>
+Kepler-35,b,Transit,1,0.89,1.03,<a href=http://adsabs.harvard.edu/abs/2012Natur.481..475W target=ref> Welsh et al. 2012 </a>
+Kepler-539,b,Transit,2,1.05,0.95,<a href=http://adsabs.harvard.edu/abs/2015arXiv150404625M target=ref>Mancini et al. 2015</a>
+Kepler-16,b,Transit,1,0.69,0.65,<a href=http://adsabs.harvard.edu/abs/2011Sci...333.1602D target=ref> Doyle et al. 2011 </a>
+Kepler-34,b,Transit,1,1.05,1.16,<a href=http://adsabs.harvard.edu/abs/2012Natur.481..475W target=ref> Welsh et al. 2012 </a>
+Kepler-30,d,Transit,3,0.99,0.95,<a href=http://adsabs.harvard.edu/abs/2012Natur.487..449S target=ref> Sanchis-Ojeda et al. 2012 </a>
+Kepler-51,c,Transit,3,1.04,0.94,<a href=http://adsabs.harvard.edu/abs/2014ApJ...783...53M target=ref> Masuda 2014 </a>
+Kepler-9,c,Transit,3,1.07,1.02,<a href=http://adsabs.harvard.edu/abs/2010Sci...330...51H target=ref> Holman et al. 2010 </a>
+Kepler-9,b,Transit,3,1.07,1.02,<a href=http://adsabs.harvard.edu/abs/2010Sci...330...51H target=ref> Holman et al. 2010 </a>
+Kepler-51,d,Transit,3,1.04,0.94,<a href=http://adsabs.harvard.edu/abs/2014ApJ...783...53M target=ref> Masuda 2014 </a>
+Kepler-56,c,Transit,3,1.32,4.23,<a href=http://adsabs.harvard.edu/abs/2013Sci...342..331H target=ref> Huber et al. 2013 </a>
+Kepler-424,b,Transit,2,1.01,0.94,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014ApJ...795..151E target=ref>Endl et al. 2014</a>
+Kepler-420,b,Transit,1,0.99,1.13,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014A&A...571A..37S target=ref>Santerne et al. 2014</a>
+Kepler-15,b,Transit,1,1.02,0.99,<a href=http://adsabs.harvard.edu/abs/2011ApJS..197...13E target=ref> Endl et al. 2011 </a>
+Kepler-45,b,Transit,1,0.59,0.55,<a href=http://adsabs.harvard.edu/abs/2012AJ....143..111J target=ref> Johnson et al. 2012 </a>
+Kepler-74,b,Transit,1,1.18,1.12,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015A&A...575A..85B target=ref>Bonomo et al. 2015</a>
+Kepler-77,b,Transit,1,0.95,0.99,<a href=http://adsabs.harvard.edu/abs/2013A%26A...557A..74G target=ref> Gandolfi et al. 2013 </a>
+Kepler-419,b,Transit,2,1.39,1.74,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014ApJ...791...89D target=ref> Dawson et al. 2014</a>
+Kepler-425,b,Transit,1,0.93,0.86,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014A&A...572A..93H target=ref>H&eacute;brard et al. 2014</a>
+Kepler-289,c,Transit,3,1.08,1,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014ApJ...795..167S target=ref>Schmitt et al. 2014</a>
+Kepler-75,b,Transit,1,0.91,0.89,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015A&A...575A..85B target=ref>Bonomo et al. 2015</a>
+Kepler-1647,b,Transit,1,1.22,1.79,<a href=http://adsabs.harvard.edu/abs/2015arXiv151200189K target=ref>Kostov et al. 2016</a>
+Kepler-428,b,Transit,1,0.87,0.8,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014A&A...572A..93H target=ref>H&eacute;brard et al. 2014</a>
+Kepler-426,b,Transit,1,0.91,0.92,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014A&A...572A..93H target=ref>H&eacute;brard et al. 2014</a>
+Kepler-44,b,Transit,1,1.12,1.35,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015A&A...575A..85B target=ref>Bonomo et al. 2015</a>
+Kepler-30,c,Transit,3,0.99,0.95,<a href=http://adsabs.harvard.edu/abs/2012Natur.487..449S target=ref> Sanchis-Ojeda et al. 2012 </a>
+Kepler-117,c,Transit,2,1.13,1.61,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015A&A...573A.124B target=ref>Bruno et al. 2015</a>
+Kepler-434,b,Transit,1,1.2,1.38,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015A&A...575A..71A target=ref>Almenara et al. 2015</a>
+Kepler-14,b,Transit,1,1.51,2.05,<a href=http://adsabs.harvard.edu/abs/2011ApJS..197....3B target=ref> Buchhave et al. 2011 </a>
+Kepler-432,b,Transit,2,1.32,4.06,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015ApJ...803...49Q target=ref>Quinn et al. 2015</a>
+Kepler-422,b,Transit,1,1.15,1.24,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014ApJ...795..151E target=ref>Endl et al. 2014</a>
+Kepler-40,b,Transit,1,1.48,2.13,<a href=http://adsabs.harvard.edu/abs/2011arXiv1101.0196S target=ref> Santerne et al. 2011 </a>
+Kepler-423,b,Transit,1,0.85,0.95,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015A&A...576A..11G target=ref>Gandolfi et al. 2015</a>
+Kepler-87,b,Transit,2,1.1,1.82,<a href=http://adsabs.harvard.edu/abs/2014A%26A...561A.103O target=ref> Ofir et al. 2014 </a>
+Kepler-43,b,Transit,1,1.32,1.42,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015ApJ...804..150E target=ref>Esteves et al. 2015</a>
+Kepler-427,b,Transit,1,0.96,1.35,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2014A&A...572A..93H target=ref>H&eacute;brard et al. 2014</a>
+Kepler-39,b,Transit,1,1.29,1.4,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015A&A...575A..85B target=ref>Bonomo et al. 2015</a>
+Kepler-41,b,Transit,1,1.15,1.29,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015A&A...575A..85B target=ref>Bonomo et al. 2015</a>
+Kepler-6,b,Transit,1,1.21,1.39,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015ApJ...804..150E target=ref>Esteves et al. 2015</a>
+Kepler-17,b,Transit,1,1.16,1.05,<a href=http://adsabs.harvard.edu/abs/2011ApJS..197...14D target=ref> D&eacute;sert et al. 2011 </a>
+Kepler-412,b,Transit,1,1.17,1.29,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015ApJ...804..150E target=ref>Esteves et al. 2015</a>
+Kepler-76,b,Orbital Brightness Modulation,1,1.2,1.32,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015ApJ...804..150E target=ref>Esteves et al. 2015</a>
+Kepler-91,b,Transit,1,1.31,6.3,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015ApJ...804..150E target=ref>Esteves et al. 2015</a>
+Kepler-8,b,Transit,1,1.21,1.49,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015ApJ...804..150E target=ref>Esteves et al. 2015</a>
+Kepler-5,b,Transit,1,1.37,1.79,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015ApJ...804..150E target=ref>Esteves et al. 2015</a>
+Kepler-433,b,Transit,1,1.46,2.26,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015A&A...575A..71A target=ref>Almenara et al. 2015</a>
+Kepler-7,b,Transit,1,1.36,1.97,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015ApJ...804..150E target=ref>Esteves et al. 2015</a>
+Kepler-447,b,Transit,1,1,1.05,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015A&A...577A.105L target=ref>Lillo-Box et al. 2015</a>
+Kepler-12,b,Transit,1,1.17,1.48,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015ApJ...804..150E target=ref>Esteves et al. 2015</a>
+Kepler-435,b,Transit,1,1.54,3.21,<a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015A&A...575A..71A target=ref>Almenara et al. 2015</a>
